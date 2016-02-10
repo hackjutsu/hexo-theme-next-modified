@@ -4,7 +4,7 @@ menu:
   categories: /categories
   archives: /archives
   tags: /tags
-  #about: /about
+  about: /about
   #commonweal: /404.html
 
 # Place your favicon.ico to /source directory.
@@ -33,6 +33,9 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
+
+# Share
+add_this_id: ra-56a07c3ac699e3ca
 
 
 # Schemes
